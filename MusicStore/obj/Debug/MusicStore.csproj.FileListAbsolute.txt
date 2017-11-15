@@ -68,3 +68,6 @@ C:\Users\ODS\Downloads\Workspace\MusicStore\MusicStore\bin\System.Web.Helpers.xm
 C:\Users\ODS\Downloads\Workspace\MusicStore\MusicStore\bin\System.Web.Mvc.xml
 C:\Users\ODS\Downloads\Workspace\MusicStore\MusicStore\obj\Debug\MusicStore.dll
 C:\Users\ODS\Downloads\Workspace\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+C:\Users\ODS\Downloads\Workspace\new_music_store\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\ODS\Downloads\Workspace\new_music_store\MusicStore\obj\Debug\MusicStore.dll
+C:\Users\ODS\Downloads\Workspace\new_music_store\MusicStore\obj\Debug\MusicStore.pdb
